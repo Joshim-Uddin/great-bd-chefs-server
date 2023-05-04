@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Dhaka-style Biriyani",
+        "image": "https://i.ibb.co/xhyYYVK/img85502-whqc-1536x1024q90.webp",
+        "description": "A spicy and flavorful rice dish with tender meat and fragrant spices.",
+        "process": [
+            "Marinate the meat with yogurt, spices, and aromatics.",
+            "Cook the rice with whole spices, fried onions, and saffron.",
+            "Layer the rice and meat in a pot and cook until tender and fragrant.",
+            "Garnish with fried onions, mint, and cilantro."
+        ],
+        "ratings": 4.5,
+        "chef": "Ayesha Siddika"
+    },
+    {
+        "id": 2,
+        "name": "Shorshe Ilish",
+        "image": "https://i.ibb.co/xhyYYVK/img85502-whqc-1536x1024q90.webp",
+        "description": "A traditional Bengali dish of Hilsa fish cooked in a mustard gravy.",
+        "process": [
+            "Clean and marinate the fish with turmeric and salt.",
+            "Make a paste of mustard seeds, green chilies, and spices.",
+            "Fry the fish until golden brown and set aside.",
+            "Cook the mustard paste with onions, garlic, and turmeric.",
+            "Add water and cook until the gravy thickens.",
+            "Add the fried fish and simmer until cooked through."
+        ],
+        "ratings": 4.7,
+        "chef": "Mohammed Rahman"
+    },
+    {
+        "id": 3,
+        "name": "Pitha",
+        "image": "https://i.ibb.co/xhyYYVK/img85502-whqc-1536x1024q90.webp",
+        "description": "A sweet or savory rice cake popular in Bangladeshi cuisine.",
+        "process": [
+            "Make a batter of rice flour, coconut milk, and sugar.",
+            "Shape the batter into small cakes and steam until cooked.",
+            "For savory pitha, add grated coconut, sesame seeds, and spices.",
+            "For sweet pitha, add jaggery, cardamom, and coconut."
+        ],
+        "ratings": 4.2,
+        "chef": "Nusrat Jahan"
+    }
+]

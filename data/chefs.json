@@ -1,0 +1,316 @@
+{
+    "chefs": [
+        {
+            "id": 1,
+            "name": "Munira Islam",
+            "image": "https://i.ibb.co/QcDcZYj/img81201-whqc-500x500q90fpt341fpl510.webp",
+            "years_of_experience": 10,
+            "num_recipes": 50,
+            "likes": 10000,
+            "recipes": [
+                {
+                    "recipe_id": 1,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Biryani",
+                    "ingredients": [
+                        "Rice",
+                        "Meat",
+                        "Potato",
+                        "Spices",
+                        "Onion"
+                    ],
+                    "cooking_method": "Cook rice and meat separately, then layer them with potato, spices, and onion. Bake in an oven for 30 minutes.",
+                    "rating": 4.5
+                },
+                {
+                    "recipe_id": 2,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Beef Curry",
+                    "ingredients": [
+                        "Beef",
+                        "Tomato",
+                        "Onion",
+                        "Garlic",
+                        "Ginger"
+                    ],
+                    "cooking_method": "Saute onion, garlic, and ginger in oil. Add beef and cook until browned. Add tomato and simmer for 20 minutes.",
+                    "rating": 4.2
+                },
+                {
+                    "recipe_id": 3,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Fish Curry",
+                    "ingredients": [
+                        "Fish",
+                        "Tomato",
+                        "Onion",
+                        "Garlic",
+                        "Turmeric"
+                    ],
+                    "cooking_method": "Saute onion, garlic, and turmeric in oil. Add fish and cook until done. Add tomato and simmer for 15 minutes.",
+                    "rating": 4.1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Rafiul Islam",
+            "image": "https://i.ibb.co/QcDcZYj/img81201-whqc-500x500q90fpt341fpl510.webp",
+            "years_of_experience": 15,
+            "num_recipes": 80,
+            "likes": 15000,
+            "recipes": [
+                {
+                    "recipe_id": 1,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Shorshe Ilish",
+                    "ingredients": [
+                        "Hilsa Fish",
+                        "Mustard Paste",
+                        "Turmeric",
+                        "Green Chili",
+                        "Salt"
+                    ],
+                    "cooking_method": "Marinate fish with mustard paste, turmeric, and salt. Fry in oil until golden brown. Serve with green chili.",
+                    "rating": 4.8
+                },
+                {
+                    "recipe_id": 2,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Chingri Malaikari",
+                    "ingredients": [
+                        "Prawns",
+                        "Coconut Milk",
+                        "Onion",
+                        "Garlic",
+                        "Ginger"
+                    ],
+                    "cooking_method": "Saute onion, garlic, and ginger in oil. Add prawns and cook until pink. Add coconut milk and simmer for 10 minutes.",
+                    "rating": 4.6
+                },
+                {
+                    "recipe_id": 3,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Mutton Bhuna",
+                    "ingredients": [
+                        "Mutton",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Garam Masala"
+                    ],
+                    "cooking_method": "Saute onion, garlic, and ginger in oil. Add mutton and cook until browned. Add garam masala and simmer for 30 minutes.",
+                    "rating": 4.4
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Abdul Karim",
+            "image": "https://i.ibb.co/QcDcZYj/img81201-whqc-500x500q90fpt341fpl510.webp",
+            "years_of_experience": 15,
+            "num_recipes": 75,
+            "likes": 20000,
+            "recipes": [
+                {
+                    "recipe_id": 7,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Shorshe Ilish",
+                    "ingredients": [
+                        "Hilsa fish",
+                        "Mustard paste",
+                        "Green chili",
+                        "Turmeric",
+                        "Salt"
+                    ],
+                    "cooking_method": "Marinate fish in a mixture of mustard paste, green chili, turmeric, and salt. Fry in oil until golden brown.",
+                    "rating": 4.8
+                },
+                {
+                    "recipe_id": 8,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Chingri Malai Curry",
+                    "ingredients": [
+                        "Prawns",
+                        "Coconut milk",
+                        "Onion",
+                        "Ginger",
+                        "Garlic"
+                    ],
+                    "cooking_method": "Saute onion, ginger, and garlic in oil. Add prawns and cook until pink. Add coconut milk and simmer for 10 minutes.",
+                    "rating": 4.5
+                },
+                {
+                    "recipe_id": 9,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Beef Bhuna",
+                    "ingredients": [
+                        "Beef",
+                        "Onion",
+                        "Tomato",
+                        "Garlic",
+                        "Ginger"
+                    ],
+                    "cooking_method": "Saute onion, garlic, and ginger in oil. Add beef and cook until browned. Add tomato and simmer for 20 minutes.",
+                    "rating": 4.2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Nasreen Akter",
+            "image": "https://i.ibb.co/QcDcZYj/img81201-whqc-500x500q90fpt341fpl510.webp",
+            "years_of_experience": 20,
+            "num_recipes": 100,
+            "likes": 35000,
+            "recipes": [
+                {
+                    "recipe_id": 10,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Chicken Korma",
+                    "ingredients": [
+                        "Chicken",
+                        "Yogurt",
+                        "Onion",
+                        "Ginger",
+                        "Garlic"
+                    ],
+                    "cooking_method": "Marinate chicken in a mixture of yogurt, onion, ginger, and garlic. Saute in oil until browned. Add water and simmer for 30 minutes.",
+                    "rating": 4.6
+                },
+                {
+                    "recipe_id": 11,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Palak Paneer",
+                    "ingredients": [
+                        "Spinach",
+                        "Paneer",
+                        "Tomato",
+                        "Onion",
+                        "Garlic"
+                    ],
+                    "cooking_method": "Saute onion and garlic in oil. Add spinach and tomato and cook until wilted. Add paneer and simmer for 5 minutes.",
+                    "rating": 4.4
+                },
+                {
+                    "recipe_id": 12,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Dal Makhani",
+                    "ingredients": [
+                        "Black lentils",
+                        "Red kidney beans",
+                        "Tomato",
+                        "Cream",
+                        "Butter"
+                    ],
+                    "cooking_method": "Soak lentils and beans overnight. Boil in water until tender. Add tomato, cream, and butter and simmer for 20 minutes.",
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Kamrul Hasan",
+            "image": "https://i.ibb.co/QcDcZYj/img81201-whqc-500x500q90fpt341fpl510.webp",
+            "years_of_experience": 18,
+            "num_recipes": 90,
+            "likes": 28000,
+            "recipes": [
+                {
+                    "recipe_id": 13,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Biriyani",
+                    "ingredients": [
+                        "Basmati rice",
+                        "Chicken",
+                        "Onion",
+                        "Ginger",
+                        "Garlic"
+                    ],
+                    "cooking_method": "Saute onion, ginger, and garlic in oil. Add chicken and cook until browned. Add water and rice and cook until rice is tender.",
+                    "rating": 4.7
+                },
+                {
+                    "recipe_id": 14,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Rasmalai",
+                    "ingredients": [
+                        "Milk",
+                        "Sugar",
+                        "Lemon juice",
+                        "Cardamom",
+                        "Pistachios"
+                    ],
+                    "cooking_method": "Boil milk and add lemon juice to curdle. Strain and knead the cheese. Boil sugar, cardamom, and water to make syrup. Add cheese balls and simmer for 10 minutes.",
+                    "rating": 4.4
+                },
+                {
+                    "recipe_id": 15,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Shami Kebab",
+                    "ingredients": [
+                        "Minced beef",
+                        "Chickpeas",
+                        "Onion",
+                        "Egg",
+                        "Breadcrumbs"
+                    ],
+                    "cooking_method": "Boil minced beef and chickpeas until tender. Saute onion and add to the meat. Add egg and breadcrumbs and form into patties. Fry in oil until browned.",
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Sadia Islam",
+            "image": "https://i.ibb.co/QcDcZYj/img81201-whqc-500x500q90fpt341fpl510.webp",
+            "years_of_experience": 15,
+            "num_recipes": 80,
+            "likes": 25000,
+            "recipes": [
+                {
+                    "recipe_id": 16,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Fish Bhuna",
+                    "ingredients": [
+                        "Fish",
+                        "Onion",
+                        "Tomato",
+                        "Ginger",
+                        "Garlic"
+                    ],
+                    "cooking_method": "Saute onion, ginger, and garlic in oil. Add tomato and cook until soft. Add fish and spices and cook until the fish is tender.",
+                    "rating": 4.5
+                },
+                {
+                    "recipe_id": 17,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Beef Curry",
+                    "ingredients": [
+                        "Beef",
+                        "Potato",
+                        "Tomato",
+                        "Onion",
+                        "Ginger"
+                    ],
+                    "cooking_method": "Saute onion, ginger, and garlic in oil. Add beef and cook until browned. Add potato, tomato, and spices and simmer until the beef is tender.",
+                    "rating": 4.2
+                },
+                {
+                    "recipe_id": 18,
+                    "recipe_img": "https://i.ibb.co/gFfZ5H5/img81384-whqc-1536x1024q90.webp",
+                    "name": "Mango Lassi",
+                    "ingredients": [
+                        "Mango",
+                        "Yogurt",
+                        "Sugar",
+                        "Cardamom",
+                        "Ice"
+                    ],
+                    "cooking_method": "Blend mango, yogurt, sugar, and cardamom until smooth. Serve over ice.",
+                    "rating": 4.6
+                }
+            ]
+        }
+    ]
+}
