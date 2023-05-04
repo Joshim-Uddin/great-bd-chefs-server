@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Tell us the differences between uncontrolled and controlled components",
+        "answer": "React components can be controlled or controlled. Components can be eitther controlled by react or controlled by DOM elements. When a component is controlled is controlled by by react is called controlled component. React controlled components component using useState, value of the component. In controlled components components state and value are observed by react and can be validated easily in a custom way. On the other hand, when a component is controlled by a DOM element is called uncontrolled component. In this case, state is not controlled. So changes of data will not be tracked and in neccessary validation is limited. Besides value of the component from input fields does on a default way. Validations and manipulations of the value in a custom way is not allowed"
+    },
+    {
+        "question": "How to validate React props using PropTypes?",
+        "answer": "React components uses props to send data to child components from parent components. Props can be of different types. Such as strings, numbers, booleans, arrays, objects etc. Sometimes props are validated as per needed. Then components can be controlled by using PropTypes. PropTypes validates the props so if props is invalid then error shows in console and if props is valid then copmponents can use the props data. PropsTypes is used 'Components.propTypes={propsName: propsType.(data types to be validate)}'"
+    },
+    {
+        "question": "Tell us the difference between node.js and express.js",
+        "answer": "node.js is a runtime libarary of JavaScript. It can run code written in JavaScript and execute tests. It is also used in server-side development. Node.js executes server-side code written using Javascript language. Express is a minimal and flexible web application framework of node.js that provides sumation of codes to run in node.js for server-side development."
+    },
+    {
+        "question": "What is a custom hook, and why will you create a custom hook?",
+        "answer": "Hooks are a great way to opertion in production with react. There are many hooks build in React and their usage is great. But sometimes We need a custom operation to be done in that case we write a functional commponent which is reusable and returns a data instead of rendering. Custom hooks is created in custom needed."
+    }
+]

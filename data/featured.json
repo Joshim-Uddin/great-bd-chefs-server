@@ -1,0 +1,82 @@
+{
+    "name": "Shrimp Malai Curry",
+    "image": "https://i.ibb.co/YL046Hp/970.jpg",
+    "details": {
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "30 minutes",
+        "servings": 4,
+        "difficulty": "medium"
+    },
+    "chef": "Taslima Islam",
+    "ingredients": [
+        {
+            "name": "shrimp",
+            "quantity": "1 lb",
+            "notes": "peeled and deveined"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "1 can",
+            "notes": ""
+        },
+        {
+            "name": "onion",
+            "quantity": "1 large",
+            "notes": "finely chopped"
+        },
+        {
+            "name": "garlic",
+            "quantity": "4 cloves",
+            "notes": "minced"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1 inch piece",
+            "notes": "grated"
+        },
+        {
+            "name": "green chilies",
+            "quantity": "2-3",
+            "notes": "sliced"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1 tsp",
+            "notes": ""
+        },
+        {
+            "name": "cumin",
+            "quantity": "1 tsp",
+            "notes": "powdered"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1 tsp",
+            "notes": "powdered"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste",
+            "notes": ""
+        },
+        {
+            "name": "oil",
+            "quantity": "2 tbsp",
+            "notes": ""
+        },
+        {
+            "name": "cilantro",
+            "quantity": "for garnish",
+            "notes": "chopped"
+        }
+    ],
+    "process": [
+        "Heat oil in a pan and fry the onions until soft and golden brown.",
+        "Add the garlic, ginger, and green chilies and cook for a minute.",
+        "Add the spices and cook for another minute.",
+        "Add the shrimp and cook until pink and opaque.",
+        "Add the coconut milk and simmer for 10-15 minutes.",
+        "Garnish with chopped cilantro and serve hot with rice."
+    ]
+}
